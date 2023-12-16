@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "556873398636",
+    "project_id": "otptestingflutter",
+    "storage_bucket": "otptestingflutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:556873398636:android:0f3ec7627bed567beb5b49",
+        "android_client_info": {
+          "package_name": "com.example.bloc_test_firebase_demo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAANTe-5tZPtVkFrHd-f1d5ruWpAKItdzk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
